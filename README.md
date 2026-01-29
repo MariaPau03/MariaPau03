@@ -27,7 +27,10 @@
 <h2 align="left">GitHub Stats</h2>
 
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPau03&layout=compact)
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaPau03&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPau03&layout=compact&theme=dracula)
+
 
 
 ###
