@@ -26,12 +26,11 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-### GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaPau03&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaPau03&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaPau03&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaPau03&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaPau03&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaPau03&theme=default)
 
 
 
