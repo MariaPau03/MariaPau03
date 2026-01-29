@@ -9,20 +9,17 @@
 ###
 
 <div align="center">
-  
-  <!-- Email -->
   <a href="mailto:mppijoan@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-         width="47" height="35" alt="gmail logo" />
+      width="47" height="35" alt="gmail logo" />
   </a>
 
-  <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/maria-pau-pijoan-manresa-5b6a34283/" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-pau-pijoan-manresa-5b6a34283/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="47" height="35" alt="linkedin logo" />
+      width="47" height="35" alt="linkedin logo" />
   </a>
-
 </div>
+
 
 
 ###
@@ -30,10 +27,10 @@
 <h2 align="left">GitHub Stats</h2>
 
 ###
+[![GitHub Streak](https://streak-stats.demolab.com?user=MariaPau03&theme=dracula)](https://github.com/MariaPau03)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaPau03)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPau03&layout=donut&theme=dracula)](https://github.com/MariaPau03)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPau03&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
