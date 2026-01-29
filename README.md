@@ -27,9 +27,8 @@
 <h2 align="left">GitHub Stats</h2>
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=MariaPau03&theme=dracula)](https://github.com/MariaPau03)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaPau03&theme=dracula)](https://github.com/MariaPau03)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPau03&layout=donut&theme=dracula)](https://github.com/MariaPau03)
 
 
 ###
