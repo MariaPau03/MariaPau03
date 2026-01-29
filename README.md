@@ -4,35 +4,13 @@
 
 ###
 
-<div align="center">
-  <a href="mailto:mppijoan@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="47" height="35" alt="gmail logo" />
-  </a>
+🧬 BSc in Biotechnology @ UdL
 
-  <a href="https://www.linkedin.com/in/maria-pau-pijoan-manresa-5b6a34283/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="47" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-
+💻 MSc in Bioinformatics for Health Sciences @ UpF-UB
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaPau03&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaPau03&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaPau03&theme=default)
-
-
-
-###
-
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">👾 Tech Stack</h2>
 
 ###
 
@@ -74,8 +52,32 @@
 
 ###
 
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MariaPau03.MariaPau03&left_color=beige"  />
+  <a href="mailto:mppijoan@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="47" height="35" alt="gmail logo" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/maria-pau-pijoan-manresa-5b6a34283/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="47" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
+
+
 ###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaPau03&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaPau03&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaPau03&theme=default)
+
+
+
+
